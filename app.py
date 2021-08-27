@@ -1,1 +1,6 @@
-message=hello, ITF-Lab print(message)
+# comments
+message = "Hello, ITF-Lab 2018!!!"
+print(message)
+
+
+
